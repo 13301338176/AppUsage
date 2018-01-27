@@ -1,4 +1,9 @@
 *.p
 *.csv
+*.docx
+*.pyc
 plots/
 project_proposal/
+project_report/
+data_structures/
+csv_files/
